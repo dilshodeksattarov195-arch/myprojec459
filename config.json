@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperverify",
+        "uuid": 2250477,
+        "checksum": "2u2p29"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
